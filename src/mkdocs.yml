@@ -1,0 +1,6 @@
+site_name: 前沿网站开发入门
+theme: 'material'
+pages:
+  - 关于本书: 'about.md'
+extra_css:
+  - 'stylesheets/extra.css'
